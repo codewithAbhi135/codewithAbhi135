@@ -1,8 +1,7 @@
 # 💫 Hi 👋, I'm Abhishek yadav
-**B.Tech CSE (AI) Student
-C/C++| JAVA|Python|JavaScript|React
+**B.Tech CSE (AI) Student.
+C/C++| JAVA |Python |JavaScript |React
 Full Stack Development|MERN
-DSA @ Problem solving.
 Aspiring Software Developer
 
 Email Me 👉 ✉️ **ay6788031@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -22,7 +21,11 @@ Email Me 👉 ✉️ **ay6788031@gmail.com** For Collaboration/Project or Anythi
 ![](https://github-readme-stats.shion.dev/api?username=codewithAbhi135&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=codewithAbhi135&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithAbhi135&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codewithAbhi135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
